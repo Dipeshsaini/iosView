@@ -1,0 +1,6 @@
+framework module iosView {
+  umbrella header "iosView-umbrella.h"
+
+  export *
+  module * { export * }
+}
